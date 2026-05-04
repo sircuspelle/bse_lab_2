@@ -27,4 +27,8 @@ public class K implements G, B {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }
