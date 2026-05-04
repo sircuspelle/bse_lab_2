@@ -1,4 +1,4 @@
-public class K implements G, B {
+public class K extends null implements G, B {
 
     private long a = 4321;
 
@@ -30,5 +30,41 @@ public class K implements G, B {
 
     public double ee() {
         return 100.500;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public int af() {
+        return -1;
     }
 }
