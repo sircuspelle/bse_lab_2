@@ -31,4 +31,8 @@ public class K implements G, B {
     public double ee() {
         return 100.500;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }
