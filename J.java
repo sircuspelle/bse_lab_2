@@ -11,4 +11,8 @@ public class J extends K {
     public int af() {
         return -1;
     }
+
+    public String kk() {
+        return "No";
+    }
 }
