@@ -59,4 +59,8 @@ public class K extends null implements G, B {
     public int af() {
         return -1;
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }

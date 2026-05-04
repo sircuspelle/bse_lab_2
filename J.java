@@ -39,4 +39,8 @@ public class J extends K {
     public int cc() {
         return 42;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

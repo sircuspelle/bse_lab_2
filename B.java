@@ -11,4 +11,8 @@ public class B extends null {
     public float ff() {
         return 3.14;
     }
+
+    public byte oo() {
+        return 4;
+    }
 }

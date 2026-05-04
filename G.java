@@ -11,4 +11,8 @@ public class G extends null {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
