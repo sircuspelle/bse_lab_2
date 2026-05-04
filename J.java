@@ -35,4 +35,8 @@ public class J extends K {
     public int hh() {
         return new java.util.Random(10).nextInt(10);
     }
+
+    public int cc() {
+        return 42;
+    }
 }

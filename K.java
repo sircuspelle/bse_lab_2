@@ -55,4 +55,8 @@ public class K extends null implements G, B {
     public long dd() {
         return 100500;
     }
+
+    public int af() {
+        return -1;
+    }
 }
