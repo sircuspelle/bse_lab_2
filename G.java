@@ -15,4 +15,8 @@ public class G extends null {
     public String kk() {
         return "No";
     }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
 }

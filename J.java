@@ -43,4 +43,8 @@ public class J extends K {
     public double ee() {
         return 500.100;
     }
+
+    public Object rr() {
+        return null;
+    }
 }

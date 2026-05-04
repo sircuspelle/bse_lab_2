@@ -67,4 +67,8 @@ public class K extends null implements G, B {
     public int af() {
         return -1;
     }
+
+    public int cc() {
+        return 39;
+    }
 }

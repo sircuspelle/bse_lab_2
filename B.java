@@ -15,4 +15,8 @@ public class B extends null {
     public Object pp() {
         return this;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
