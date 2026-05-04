@@ -15,4 +15,8 @@ public class J extends K {
     public String kk() {
         return "No";
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
 }
