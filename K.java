@@ -1,4 +1,4 @@
-public class K implements G, B {
+public class K extends null implements G, B {
 
     private long a = 4321;
 
@@ -38,5 +38,17 @@ public class K implements G, B {
 
     public Object rr() {
         return null;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public long ac() {
+        return 111;
     }
 }

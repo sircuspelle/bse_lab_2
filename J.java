@@ -12,15 +12,23 @@ public class J extends K {
         return -1;
     }
 
-    public String kk() {
-        return "No";
-    }
-
     public void aa() {
         System.out.println("void aa");
     }
 
+    public String kk() {
+        return "No";
+    }
+
     public Object pp() {
         return this;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
